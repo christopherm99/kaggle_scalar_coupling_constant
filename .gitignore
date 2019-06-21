@@ -1,0 +1,5 @@
+# Data. Can be downloaded with kaggle competitions download -c champs-scalar-coupling
+download/
+input/
+# IPython
+.ipynb_checkpoints/
